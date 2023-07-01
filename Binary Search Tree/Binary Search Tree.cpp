@@ -13,5 +13,6 @@ public:
 	Node(string i, Node * 1, Node* r)
 	{
 		info = i;
+		leftchild = 1;
 	}
 }
