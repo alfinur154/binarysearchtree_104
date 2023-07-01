@@ -12,6 +12,6 @@ public:
 	//Constructor for the node class
 	Node(string i, Node * 1, Node* r)
 	{
-
+		info = i;
 	}
 }
